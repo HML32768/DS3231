@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include <Wire.h>
 #include <string.h>
-//#include <pgmspace.h>
 #include "DS3231.h" // include header
 
 const uint8_t DS3231_I2C_ADDR = 0x68;
